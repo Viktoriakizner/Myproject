@@ -1,0 +1,4 @@
+[
+  { "id": 1, "user_name": "נועה", "content": "שירות מעולה!", "likes": 3, "dislikes": 0 },
+  { "id": 2, "user_name": "דני", "content": "האוהל איכותי מאוד.", "likes": 1, "dislikes": 0 }
+]
