@@ -1,0 +1,41 @@
+[
+  {
+    "id": 101,
+    "date": "2025-07-20",
+    "items": [
+      {
+        "product": {
+          "id": 1,
+          "title": "אוהל זוגי קל משקל",
+          "price_cents": 29900,
+          "image_url": "https://picsum.photos/seed/tent/600/400"
+        },
+        "qty": 1
+      },
+      {
+        "product": {
+          "id": 2,
+          "title": "גזייה קומפקטית",
+          "price_cents": 9900,
+          "image_url": "https://picsum.photos/seed/stove/600/400"
+        },
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "date": "2025-08-01",
+    "items": [
+      {
+        "product": {
+          "id": 2,
+          "title": "גזייה קומפקטית",
+          "price_cents": 9900,
+          "image_url": "https://picsum.photos/seed/stove/600/400"
+        },
+        "qty": 2
+      }
+    ]
+  }
+]
