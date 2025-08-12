@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "אוהל זוגי קל משקל", "description": "מיועד לטרקים קצרים", "price_cents": 29900, "image_url": "https://picsum.photos/seed/tent/600/400", "category": { "id": 1, "name": "אוהלים" } },
+  { "id": 2, "title": "גזייה קומפקטית", "description": "ראש גז קטן", "price_cents": 9900, "image_url": "https://picsum.photos/seed/stove/600/400", "category": { "id": 4, "name": "ציוד לבישול" } }
+]
